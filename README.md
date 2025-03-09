@@ -1,4 +1,4 @@
-# RioToon (DEMO)
+# RoiToon (DEMO)
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)
 ![URP](https://img.shields.io/badge/URP-Required-brightgreen.svg)
@@ -17,7 +17,7 @@ Anime-style cel-shading character system for Unity URP.
 
 ## Installation
 
-1. Import package
+1. Download Roitoon_demo.shader from this repo
 2. Verify URP settings
 3. Check sample materials
 
@@ -87,7 +87,7 @@ material.SetFloat("_OutlineWidth", 0.002f);
 A: No, it uses URP-specific features.
 
 **Q: Does it support transparency?**  
-A: The base version only supports opaque rendering.
+A: Yes
 
 **Q: Are there performance issues on mobile?**  
 A: Follow optimization tips to adjust parameters accordingly.
