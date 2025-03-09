@@ -1,4 +1,4 @@
-# PyohyaToon URP Shader
+# RioToon URP Shader (DEMO)
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)
 ![URP](https://img.shields.io/badge/URP-Required-brightgreen.svg)
