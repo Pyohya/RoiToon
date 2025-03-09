@@ -25,29 +25,38 @@ __HomePage :__ https://roitoon.com
 - Universal Render Pipeline
 - Shader Model 4.5+
 
-## Key Parameters
+## Feature
 
-### Base Settings
-- `Material Type`: Face(0), Hair(1), Clothing(2)
-- `Color`: Overall color adjustment
-- `Normal Scale`: Normal map intensity
-
-### Shadow Control
-- `Shadow Cel Steps`: Number of shadow steps (1-6)
-- `Shadow Boundary`: Shadow boundary position
-- `Shadow Hardness`: Shadow edge sharpness
-- `Shadow Intensity`: Shadow strength
-
-### Highlights
-- `Hair Spec Width`: Hair highlight width
-- `Hair Spec Sharpness`: Hair highlight definition
-- `Specular Sharpness`: Clothing highlight definition
-- `Highlight Sharpness`: Face highlight definition
-
-### Outlines
-- `Outline Width`: Outline thickness
-- `Outline Color`: Outline color
-- `Outline View Scale`: View-based thickness adjustment
+- **Material Type System**: Specialized rendering for Face, Hair, and Clothing
+- **Advanced Cel-Shading**: Multi-step shading with customizable boundaries and color
+- **Normal Mapping**: Full support for normal maps with adjustable intensity
+- **ID Map System**: Control outlines and other effects via ID maps
+- **High-Performance**: Optimized for mobile and desktop platforms
+- **Custom Shadow Direction**: Override default light direction
+- **Shadow Anisotropy**: Direction-based shadow filtering
+- **Multi-step Shadows**: Two-level shadow system with adjustable boundaries
+- **Shadow Hardness Control**: Adjustable shadow edge softness
+- **Ambient Light Integration**: Environment lighting affects shadow colors
+- **Blush System**: Texture-based blush with adjustable color and intensity
+- **Sub-Surface Scattering**: Simulated light penetration for realistic skin
+- **Face Highlights**: Special highlight system for facial features
+- **Anisotropic Specular**: Direction-based highlights using flow maps
+- **Hair Translucency**: Back-lighting effect for realistic hair rendering
+- **Customizable Hair Width**: Control the width of hair highlights
+- **Multi-Material System**: Specialized rendering for silk, metal, and leather
+- **Detail Normal Mapping**: Add fine details with secondary normal maps
+- **Metallic and Smoothness Control**: Adjustable material properties
+- **Adaptive Outline System**: Width varies based on depth and viewing angle
+- **Outline Color Control**: Customizable outline color with per-material variations
+- **ID Map Integration**: Control outline width using ID maps
+- **Super-Sampling Anti-Aliasing**: High-quality outlines with reduced artifacts
+- **View-Based Outline Width**: Outlines adapt to camera angle
+- **Rim Lighting**: Customizable back-light effect with ambient influence
+- **SSAA for Effects**: Super-sampling for high-quality rim and outline effects
+- **Environment Integration**: Scene lighting affects all shader aspects
+- **URP Compatible**: Fully integrated with Unity's Universal Render Pipeline
+- **SRP Batcher Support**: Optimized for Single-Pass Rendering
+- **Shadow Casting**: Proper shadow casting and receiving
 
 ## FAQ
 
