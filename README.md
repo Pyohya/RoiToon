@@ -15,28 +15,11 @@ Anime-style cel-shading character system for Unity URP.
 ### Full Version
 ![Full Version](https://i.ibb.co/RGXzs95P/3333.png)
 
-## Installation
-
-1. Download Roitoon_demo.shader from this repo
-2. Verify URP settings
-3. Check sample materials
-
 ## Requirements
 
 - Unity 2021.3+
 - Universal Render Pipeline
 - Shader Model 4.5+
-
-## Texture Setup
-
-| Texture | Channel Configuration | Purpose |
-|---------|----------------------|---------|
-| Main Texture | RGB | Base color |
-| LightMap | R: AO, G: Shadow, B: Spec, A: Rim | Main lighting control |
-| Normal Map | RGB | Surface normals |
-| ID Map | R | Outline/area control |
-| Hair Flow Map | RG: Direction, B: Length | Hair highlight control |
-| Cloth Map | R: Silk, G: Metal, B: Leather | Clothing material control |
 
 ## Key Parameters
 
@@ -61,25 +44,6 @@ Anime-style cel-shading character system for Unity URP.
 - `Outline Width`: Outline thickness
 - `Outline Color`: Outline color
 - `Outline View Scale`: View-based thickness adjustment
-
-## Optimization Tips
-
-- Mobile: Shadow Cel Steps 2-3, reduce sampling
-- Console/PC: Shadow Cel Steps 3-5, default sampling
-- Multiple characters: Reduce outline sampling
-
-## Usage Examples
-
-```csharp
-// Change shadow steps at runtime
-material.SetFloat("_ShadowCelSteps", 4);
-
-// Adjust highlight sharpness
-material.SetFloat("_SpecularSharpness", 25);
-
-// Modify outline width
-material.SetFloat("_OutlineWidth", 0.002f);
-```
 
 ## FAQ
 
