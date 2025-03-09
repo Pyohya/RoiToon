@@ -4,7 +4,9 @@
 ![URP](https://img.shields.io/badge/URP-Required-brightgreen.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Anime-style cel-shading character system for Unity URP.
+RoiToon is a high-quality cel-shading character shader for Unity URP. Inspired by modern animation-style games, it provides crisp shadows, anime-style highlights, and customizable outlines.
+
+RoiToonはUnity URP向けの高品質セルシェーディングキャラクターシェーダーです。現代のアニメスタイルゲームにインスパイアされ、鮮明な影、アニメスタイルのハイライト、カスタマイズ可能なアウトラインを提供します。
 
 ## Demo vs. Full Version
 
