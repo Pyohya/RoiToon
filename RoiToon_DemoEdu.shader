@@ -14,6 +14,21 @@ You are NOT permitted to:
 The full version with advanced features will be available for purchase starting April 2025.
 For licensing inquiries or to purchase the full version when available: [Close]
 
+JAPANESE:
+このデモ版のRoiToonキャラクターシェーダーは評価目的で提供されています。
+
+許可されていること:
+- 個人または商用プロジェクトでこのシェーダーを使用すること
+- 自分の用途に合わせてシェーダーを改変すること
+
+許可されていないこと:
+- 改変したバージョンを再配布すること
+- このシェーダーや派生物を別の名前で販売または再販すること
+- 本ライセンス通知を削除すること
+
+高度な機能を備えた完全版は、2025年4月より販売開始予定です。
+ライセンスに関するお問い合わせや、完全版の購入については [Close] までご連絡ください。
+
 KOREAN:
 RoiToon 캐릭터 셰이더 데모 버전은 평가 목적으로 제공됩니다. 다음과 같은 사용이 허용됩니다:
 - 개인 또는 상업 프로젝트에서 이 셰이더 사용
