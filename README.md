@@ -8,7 +8,7 @@ RoiToon is a __high-quality cel-shading character shader for Unity URP.__ Inspir
 
 RoiToonは __Unity URP向けの高品質セルシェーディングキャラクターシェーダーです__。現代のアニメスタイルゲームにインスパイアされ、鮮明な影、アニメスタイルのハイライト、カスタマイズ可能なアウトラインを提供します。
 
-## Demo vs. Full Version
+## Demo vs Full Version
 
 ### Demo Version
 <img src="https://i.ibb.co/d4wmrr67/222.png" alt="Demo Version" style="width: 100%; height: auto;">
