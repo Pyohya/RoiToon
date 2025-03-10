@@ -8,8 +8,6 @@ RoiToon is a __high-quality cel-shading character shader for Unity URP.__ Inspir
 
 RoiToonは __Unity URP向けの高品質セルシェーディングキャラクターシェーダーです__。現代のアニメスタイルゲームにインスパイアされ、鮮明な影、アニメスタイルのハイライト、カスタマイズ可能なアウトラインを提供します。
 
-__HomePage :__ https://roitoon.com
-
 ## Demo vs. Full Version
 
 ### Demo Version
@@ -72,10 +70,10 @@ A: Follow optimization tips to adjust parameters accordingly.
 
 ## Star History
 
-<a href="https://star-history.com/#Pyohya/RoiToon&Date">
+<a href="https://www.star-history.com/#Pyohya/RoiToon&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Pyohya/RoiToon&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Pyohya/RoiToon&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Pyohya/RoiToon&type=Date"  />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Pyohya/RoiToon&type=Date" />
  </picture>
 </a>
