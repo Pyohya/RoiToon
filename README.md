@@ -1,4 +1,4 @@
-# RoiToon (DEMO)
+# RoiToon
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)
 ![URP](https://img.shields.io/badge/URP-Required-brightgreen.svg)
@@ -8,13 +8,10 @@ RoiToon is a __high-quality cel-shading character shader for Unity URP.__ Inspir
 
 RoiToonは __Unity URP向けの高品質セルシェーディングキャラクターシェーダーです__。現代のアニメスタイルゲームにインスパイアされ、鮮明な影、アニメスタイルのハイライト、カスタマイズ可能なアウトラインを提供します。
 
-## Demo vs Full Version
-
-### Demo Version
+### Preview
 <img src="https://i.ibb.co/d4wmrr67/222.png" alt="Demo Version" style="width: 100%; height: auto;">
 <img src="https://i.ibb.co/7xLhXM4H/115.png" alt="Demo Version" style="width: 100%; height: auto;">
 
-### Full Version
 ![Full Version](https://i.ibb.co/RGXzs95P/3333.png)
 
 ## Requirements
@@ -62,7 +59,7 @@ RoiToonは __Unity URP向けの高品質セルシェーディングキャラク�
 A: No, it uses URP-specific features.
 
 **Q: Does it support transparency?**  
-A: Yes
+A: Yes, Only support transparency Render Quene
 
 **Q: Are there performance issues on mobile?**  
 A: Follow optimization tips to adjust parameters accordingly.
