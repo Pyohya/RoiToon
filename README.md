@@ -12,8 +12,6 @@ RoiToonは __Unity URP向けの高品質セルシェーディングキャラク�
 <img src="https://i.ibb.co/d4wmrr67/222.png" alt="Demo Version" style="width: 100%; height: auto;">
 <img src="https://i.ibb.co/7xLhXM4H/115.png" alt="Demo Version" style="width: 100%; height: auto;">
 
-![Full Version](https://i.ibb.co/RGXzs95P/3333.png)
-
 ## Requirements
 
 - Unity 2021.3+
